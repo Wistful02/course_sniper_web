@@ -4,6 +4,7 @@
 <head>
   <title>Sussy Testing Website</title>
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.js"></script>
 </head>
 
 <body>
@@ -23,15 +24,37 @@
       <input type="submit" value="Submit" class="button">
     </form>
 
-    <h3 class="status">{{status}}</h3>
+    <h3 id="status_bar" class="status">{{status}}</h3>
 
-    <h2 class="title">Course Codes:</h2>
+    <div id="Buttons">
+      <div style="float: left;">
+        <button id="start_snipe_button" type="submit" class="button"> start sniping! </button>
+      </div>
+      <div style="float: left;">
+        <form action="/clear_list" method="POST">
+          <button type="submit">Clear List</button>
+        </form>
+      </div>
+      <div style="float: left;">
+        <form action="/stop_sniper" method="POST">
+          <button type="submit">Stop</button>
+        </form>
+      </div>
+    </div>
+    <br>
+    <h2 class="title">Course Indexes:</h2>
     <ul class="input-list">
       {% for item in stored_inputs %}
       <li>{{ item }}</li>
       {% endfor %}
     </ul>
+
+    <h2 class="title">Sniper Updates</h2>
+    <ul id="input_list"></ul>
   </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+
 </body>
 
 </html>
