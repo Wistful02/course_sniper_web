@@ -1,10 +1,14 @@
-import flask
-from flask import Flask, render_template, request
 import src.sessions_status_updater
+from flask_socketio import SocketIO, emit
+from flask import Flask, render_template, request, Response
+from time import sleep
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = 'amongus'
+socketio = SocketIO(app, host='localhost', port=5000)
 stored_inputs = []  # Array to store the inputs
 page=''
+sniper_running=False
 
 @app.route('/')
 def index():
@@ -24,6 +28,9 @@ def process():
             return render_template(page, stored_inputs=stored_inputs, status="Numbers Only!")  
     
     stored_inputs.append(user_input)
+    with open('settings/indexSrc.txt',mode='w') as f:
+        for x in stored_inputs:
+            f.write(x + '\n')
     return render_template(page, stored_inputs=stored_inputs, status=f"Added {user_input}")
 
 @app.route('/course_snipe')
@@ -40,14 +47,27 @@ def clear_list():
     stored_inputs = []
     return render_template(page,stored_inputs=[],status="Cleared")
 
-@app.route('/start_sniper', methods=['POST'])
-def start_sniper():
-    with open('settings/indexSrc.txt',mode='w') as f:
-        for x in stored_inputs:
-            f.write(x + '\n')
-    return render_template(page,stored_inputs=[],status="Starting Sniper....")
+@app.route('/stop_sniper', methods=['POST'])
+def stop_sniper():
+    global sniper_running
+    sniper_running = False
+    return render_template(page,stored_inputs=[],status="Sniper stopped")
+
+
+
+@socketio.on('start_sniper')
+def handle_message():
+    global sniper_running
+    sniper_running = True
+    while(sniper_running):
+        print('starting sniper process...')
+        str = src.sessions_status_updater.return_data()
+        emit('sex_with_andrewmama', str, broadcast=False)
+        print('ending sniper process...')
+        print(f"app.py:{str}/{type(str)}")
+        sleep(5)
 
 if __name__ == '__main__':
     stored_inputs = []
     page='index.html'
-    app.run(debug=True)
+    socketio.run(app,debug='TRUE')
