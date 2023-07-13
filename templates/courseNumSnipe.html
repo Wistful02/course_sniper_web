@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sussy Testing Website</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <h1>Zav's course sniper</h1>
+
+  <div class="navbar">
+    <a href="/">Index Sniping</a>
+    <a href="/course_snipe">Course Number Sniping</a>
+  </div>
+
+  <div class="simple-container">
+    <h1 class="title">course snipe</h1>
+    <form action="/process" method="POST">
+      <label for="input" class="label">Enter Text:</label>
+      <input type="text" id="input" name="input" class="input" required>
+      <br>
+      <input type="submit" value="Submit" class="button">
+    </form>
+
+    <h3 class="status">{{status}}</h3>
+
+    <h2 class="title">Course Codes:</h2>
+    <ul class="input-list">
+      {% for item in stored_inputs %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
+
+</html>

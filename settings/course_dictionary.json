@@ -1,0 +1,751 @@
+{
+    "01:198:205": {
+        "07326": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "4:05 PM - 5:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": "Section 01 Notes: CREDIT NOT GIVEN FOR BOTH THISCOURSE AND 14-332:202 OR 332:312"
+        },
+        "07327": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "7:45 PM - 8:40 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "07328": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "4:05 PM - 5:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "07329": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Monday",
+                "Time": "7:45 PM - 8:40 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "07330": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "7:45 PM - 8:40 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "07331": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Monday",
+                "Time": "7:45 PM - 8:40 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "07332": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "2:15 PM - 3:10 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "07333": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "4:05 PM - 5:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "07334": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "7:45 PM - 8:40 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "19848": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "4:05 PM - 5:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "19849": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "7:45 PM - 8:40 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "19922": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "2:15 PM - 3:10 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        }
+    },
+    "01:506:216": {
+        "08523": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Online"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Online"
+            },
+            "restrictions": ""
+        }
+    },
+    "01:565:301": {
+        "08681": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "restrictions": "Section 01 Notes: PREREQ: 01:565:202 OR EQUIVALENT"
+        },
+        "08682": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "restrictions": "Section 02 Notes: PREREQ: 01:565:202 OR EQUIVALENT"
+        }
+    },
+    "01:640:152": {
+        "09069": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": "Section 01 Notes: PREREQ: CALCULUS I"
+        },
+        "09070": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09071": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09072": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09073": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09074": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09075": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Friday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09076": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Friday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09077": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Friday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09078": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09079": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09080": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09081": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09082": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09083": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Tuesday",
+                "Time": "7:30 PM - 8:50 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09084": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09085": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09086": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "8:30 AM - 9:50 AM",
+                "Campus and Classroom": "Livingston"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "Livingston"
+            },
+            "restrictions": ""
+        },
+        "09087": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "restrictions": ""
+        },
+        "09088": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "restrictions": ""
+        },
+        "09089": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class2": {
+                "Day": "Thursday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "Class3": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "College Avenue"
+            },
+            "restrictions": ""
+        },
+        "09090": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "restrictions": ""
+        },
+        "09091": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "12:10 PM - 1:30 PM",
+                "Campus and Classroom": "C/D"
+            },
+            "restrictions": ""
+        },
+        "09092": {
+            "Class1": {
+                "Day": "Tuesday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "Class2": {
+                "Day": "Friday",
+                "Time": "10:20 AM - 11:40 AM",
+                "Campus and Classroom": "C/D"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "C/D"
+            },
+            "restrictions": ""
+        },
+        "09097": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "2:00 PM - 3:20 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09098": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "3:50 PM - 5:10 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        },
+        "09099": {
+            "Class1": {
+                "Day": "Monday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class2": {
+                "Day": "Wednesday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "Class3": {
+                "Day": "Thursday",
+                "Time": "5:40 PM - 7:00 PM",
+                "Campus and Classroom": "Busch"
+            },
+            "restrictions": ""
+        }
+    }
+}

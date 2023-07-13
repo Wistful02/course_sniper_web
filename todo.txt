@@ -1,0 +1,3 @@
+-ajax
+    -throw info back from session_status_updater
+    -some kind of console like thing on app

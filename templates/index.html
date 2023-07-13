@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sussy Testing Website</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <h1>Zav's Course Sniper</h1>
+
+  <div class="navbar">
+    <a href="/">Index Sniping</a>
+    <a href="/course_snipe">Course Number Sniping</a>
+  </div>
+
+  <div class="simple-container">
+    <h1 class="title">Index Snipe</h1>
+    <form action="/process" method="POST">
+      <label for="input" class="label">Enter Text:</label>
+      <input type="text" id="input" name="input" class="input" required>
+      <br>
+      <input type="submit" value="Submit" class="button">
+    </form>
+
+
+    <h3 class="status">{{status}}</h3>
+    
+    <div style="float: left;">
+      <form action="start_sniper" method="POST">
+        <button type="submit" class="button"> start sniping! </button>
+      </form>
+    </div>
+    <div style="float: left;">
+      <form action="/clear_list" method="POST">
+        <button type="submit">Clear List</button>
+      </form>
+    </div>
+    <br>
+
+    <h2 class="title">Course Indexes:</h2>
+    <ul class="input-list">
+      {% for item in stored_inputs %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
+
+</html>
