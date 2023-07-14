@@ -1,5 +1,6 @@
 import src.sessions_status_updater
 import src.partial_webscrape
+import src.file_manipulations
 from flask_socketio import SocketIO, emit
 from flask import Flask, render_template, request, Response
 from time import sleep
@@ -73,6 +74,8 @@ def handle_message():
         print('ending sniper process...')
         print(f"app.py:{str}/{type(str)}")
         sleep(5)
+
+
 
 if __name__ == '__main__':
     stored_inputs = []
