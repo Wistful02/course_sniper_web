@@ -29,7 +29,7 @@ def return_data():
         
         ret = []
         for index in openClasses:
-            ret.append(index+' is open!')
+            ret.append(index)
 
         print(f"ssu is running... length of arr:{len(ret)}")
         '''
