@@ -42,6 +42,11 @@ socket.on('sex_with_andrewmama', function (message) {
     console.log(textArray)
 });
 
+socket.on('sniper_started',function () {
+    var output = "Sniping";
+    document.getElementById('status_bar').innerHTML = output;
+});
+
 document.getElementById('start_snipe_button').addEventListener('click', function () {
     document.getElementById('status_bar').innerHTML = 'Starting Sniper... (This might take a while depending on the device you are using)';
     socket.emit('start_sniper');

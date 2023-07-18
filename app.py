@@ -67,6 +67,7 @@ def handle_message():
     if page == "courseNumSnipe.html": src.partial_webscrape.get_indexes()
     global sniper_running
     sniper_running = True
+    emit('sniper_started')
     while(sniper_running):
         print('starting sniper process...')
         str = src.sessions_status_updater.return_data()

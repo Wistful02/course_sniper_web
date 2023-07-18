@@ -1,3 +1,7 @@
--ajax
-    -throw info back from session_status_updater
-    -some kind of console like thing on app
+-Funcionality
+    -priority indexes
+    -sniper controls
+        -for each index there are buttons on the right where u can prioritze or like remove or something.
+
+-Auto sniper integration
+-Complete webscrape integration
